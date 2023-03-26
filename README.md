@@ -6,6 +6,7 @@ Creating a manual control, joystick bridge between user and drone using mavros.
 ### Usage
 launch the key_position_control.launch for local position control using keyboard.<br>
 launch the joy_global_control.launch for gloabl velocity control using joystick.
+Readme edit 1
 ### Dependencies
 Primary :
 - Joy package
